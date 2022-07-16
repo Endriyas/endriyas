@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### About Me 🙎‍♂️
+## About Me 🙎‍♂️
 
 - 👀 I am Endriyas, working as Lead Software Developer at CodeLight Software Engineering
 - 💻 I’m a full stack developer [Vue, Hasura, Express, Postgres]
@@ -12,7 +12,7 @@
 - 📫 How to reach me: +251942761926, yendriyas@gmail.com
 
 
-### Tech Stack
+## Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -51,7 +51,7 @@
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-### Contact Me
+## Contact Me
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
