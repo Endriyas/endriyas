@@ -2,7 +2,7 @@
 
 ### About Me 🙎‍♂️
 
-- 👀 I am Endriyas, working as an Lead Software Developer at CodeLight Software Engineering
+- 👀 I am Endriyas, working as Lead Software Developer at CodeLight Software Engineering
 - 💻 I’m a full stack developer [Vue, Hasura, Express, Postgres]
 - 🎓 I graduated in 2019 from AASTU, Addis Ababa (BSc, SE) with a CGPA of 3.96
 - 🌱 I’m currently learning Vue3 & Cloud(AWS)
@@ -51,7 +51,7 @@
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-### Social
+### Contact Me
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
