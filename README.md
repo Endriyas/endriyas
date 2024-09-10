@@ -2,14 +2,29 @@
 
 ## About Me 🙎‍♂️
 
-- 👀 I am Endriyas, working as Lead Software Developer at CodeLight Software Engineering
-- 💻 I’m a full stack developer [Vue, Hasura, Express, Postgres]
-- 🎓 I graduated in 2019 from AASTU, Addis Ababa (BSc, SE) with a CGPA of 3.96
-- 🌱 I’m currently learning Vue3 & Cloud(AWS)
-- 💞️ Interests: Listening music, building projects, reading and watching movie
-- 💬 Ask me about web dev, database & graphql
-- 😄 Pronouns: he/his
-- 📫 How to reach me: +251942761926, yendriyas@gmail.com
+👋 I am Endriyas, working as Lead Software Developer at CodeLight Software Engineering.
+
+💻 Full Stack Developer with Vue.js, Hasura, Express, and PostgreSQL expertise.
+
+🎓 Education:
+Graduated in 2019 from Addis Ababa Science and Technology University (AASTU) with a BSc in Software Engineering.
+CGPA: 3.96
+
+🌱 Currently Learning:
+Expanding my knowledge in Cloud Technologies (AWS).
+
+💡 Interests:
+Listening to music, building innovative software projects, reading, and watching movies.
+
+💬 Ask me about:
+Web development, databases, and GraphQL.
+
+😄 Pronouns:
+He/Him
+
+📫 Contact Information:
+Phone: +251 942761926
+Email: yendriyas@gmail.com
 
 
 ## Tech Stack
